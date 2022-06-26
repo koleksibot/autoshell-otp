@@ -6,7 +6,7 @@
     "cheerio": "^1.0.0-rc.10",
     "delay": "^5.0.0",
     "follow-redirects": "^1.14.5",
-    "node-fetch": "^2.6.6",
+    "node-fetch": "^2.6.7",
     "puppeteer-extra": "^3.2.3",
     "puppeteer-extra-plugin-stealth": "^2.9.0",
     "randomstring": "^1.2.1",
